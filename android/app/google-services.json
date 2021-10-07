@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501631246944",
+    "firebase_url": "https://specialite-5e9de-default-rtdb.firebaseio.com",
+    "project_id": "specialite-5e9de",
+    "storage_bucket": "specialite-5e9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501631246944:android:2db74f34c193b489b95905",
+        "android_client_info": {
+          "package_name": "com.example.specialite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501631246944-do6gj1hj7r4v38ckro6gc7h2f8c4rpqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsHrIFGG7xh3THRQWt1qPdVtxXPKUEOrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501631246944-do6gj1hj7r4v38ckro6gc7h2f8c4rpqn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501631246944-nmtglrge08g715en2mbjeacs5u31qodi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
